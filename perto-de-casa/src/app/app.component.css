@@ -1,0 +1,31 @@
+.custom-toolbar {
+  background-color: #415D43;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.icon-left {
+  position: absolute;
+  left: 16px;
+}
+
+.toolbar-title {
+  font-size: 25px;
+  font-weight: 400;
+}
+
+.imagem-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.imagem-grande {
+  width: 100%;
+  height: auto;
+  border-radius: 18px;
+  object-fit: cover;
+}

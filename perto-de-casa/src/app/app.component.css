@@ -1,0 +1,15 @@
+.toolbar {
+  background-color: #415D43;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.toolbar-titulo {
+  font-family: var(--font-montserrat);
+    font-size: 30px;
+    text-align: center;
+}
+

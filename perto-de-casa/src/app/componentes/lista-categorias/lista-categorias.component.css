@@ -1,0 +1,36 @@
+.texto-titulo {
+  font-family: var(--font-montserrat);
+  font-size: 50px;
+  font-weight: var(--font-weight-normal);
+  line-height: 60px;
+  text-align: end;
+  margin-right: 15%;
+  color: #232020;
+}
+
+.secao-flex {
+  display: flex;
+  align-items: center; 
+  justify-content: space-between; 
+  flex-wrap: wrap;
+}
+
+section img {
+  width: 120px;
+  margin-left: 200%;
+}
+
+.banner-simples {
+  background-color: #F0BE63; 
+  padding: 1px;
+  text-align: center;
+}
+
+.texto-banner {
+    font-family: var(--font-montserrat);
+  font-size: 40px;
+  font-weight: var(--font-weight-normal);
+  line-height:45px;
+  text-align: center;
+  color: #232020;    
+}
